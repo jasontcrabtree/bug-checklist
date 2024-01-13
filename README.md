@@ -12,4 +12,6 @@ List of common issues to check before pulling your hair out
 
 - E.g. Node 18.4.0 being installed in user directory, being used over NVM 21.5.0
 
-1. Are you refreshing the right page/file/folder?
+3. Are you refreshing the right page/file/folder?
+
+- E.g. refreshing live browser
